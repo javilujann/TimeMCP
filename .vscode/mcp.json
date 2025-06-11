@@ -1,0 +1,10 @@
+{
+    "servers": {
+        "example-server": {
+            "type": "stdio",
+            "command": "python",
+            "args": ["${workspaceFolder}/server.py"],
+            "env": {}
+        },
+    }
+}
