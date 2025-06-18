@@ -1,6 +1,7 @@
 # TimeMCP
 [![smithery badge](https://smithery.ai/badge/@javilujann/timemcp)](https://smithery.ai/server/@javilujann/timemcp)
-Contiene un pequeño programa de un servidor MCP con dos tools para obtener el tiempo y traducirlo a lenguaje natural
+
+It contains a small MCP server program with two tools one to get the current timestamp and other translate it into natural language.
 
 ### Installing via Smithery
 
