@@ -1,0 +1,23 @@
+# Ignore VS Code settings directory
+.vscode/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# Local configuration
+.env
